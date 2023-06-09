@@ -1,7 +1,7 @@
 # menu-bar
 https://steptowardscoding.blogspot.com
 
-## HTML Code
+# HTML Code
 It uses the Font Awesome icon library and includes a custom CSS file called "style.css" for styling.
 
 The menu bar consists of an unordered list <ul> with class "mcd-menu" that contains several list items <li>, each representing a menu item. Each menu item is represented by an anchor <a> tag with various Font Awesome icons and text content.
@@ -21,7 +21,7 @@ The seventh menu item represents the "Contacts" page.
 The last menu item is a search input field with a search button.
 Overall, this code represents a hierarchical menu structure with nested sub-menus for the blog and team sections. The styling and behavior of the menu are likely defined in the "style.css" file referenced in the HTML markup.
   
-## CSS Code
+# CSS Code
 It includes media queries to adjust the styling based on different screen sizes. Here's a breakdown of the code:
 
 The .clearfix class is used to clear floats.
